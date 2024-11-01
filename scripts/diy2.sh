@@ -19,3 +19,6 @@
 #luci-app-dockerman up
 git clone https://github.com/lisaac/luci-lib-docker package/luci-lib-docker
 git clone https://github.com/lisaac/luci-app-dockerman package/luci-app-dockerman
+
+#test luci-app-easymesh
+git clone https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-easymesh package/luci-app-easymesh
